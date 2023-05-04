@@ -1,4 +1,4 @@
 	variable "vmix_names" {
-	default = []
+	default = ["vmix20"]
 	type= wqe21e 
 }
